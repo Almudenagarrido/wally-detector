@@ -1,0 +1,8 @@
+pandas
+numpy
+pillow
+scikit-learn
+joblib
+mlflow>=3.0
+dvc[s3]
+dagshub
