@@ -1,0 +1,6 @@
+outs:
+- md5: 2b90d8eaabb7cd124841430e840846ad.dir
+  size: 1750247
+  nfiles: 5
+  hash: md5
+  path: no_wally

@@ -1,0 +1,6 @@
+outs:
+- md5: 308f481d85657788d5b2fb10e673eac6.dir
+  size: 2372865
+  nfiles: 5
+  hash: md5
+  path: wally
